@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="IconCardView">
+        <attr name="icon_background_color" format="reference|color" />
+        <attr name="icon_text_background_color" format="reference|color" />
+        <attr name="icon_primary_text_color" format="reference|color" />
+        <attr name="icon_secondary_text_color" format="reference|color" />
+        <attr name="icon_image" format="reference|integer" />
+        <attr name="icon_theme" format="reference|integer" />
+    </declare-styleable>
+
+    <declare-styleable name="LoadingCardView">
+        <attr name="loading_background_color" format="reference|color" />
+        <attr name="loading_progress_color" format="reference|color" />
+        <attr name="loading_theme" format="reference|integer" />
+    </declare-styleable>
+
+    <declare-styleable name="OverlayCardView">
+        <attr name="overlay_background_color" format="reference|color" />
+        <attr name="overlay_image" format="reference|integer" />
+        <attr name="overlay_icon" format="reference|integer" />
+        <attr name="overlay_theme" format="reference|integer" />
+    </declare-styleable>
+
+    <declare-styleable name="ProcessCardView">
+        <attr name="process_background_color" format="reference|color" />
+        <attr name="process_overlay_background_color" format="reference|color" />
+        <attr name="process_progress_color" format="reference|color" />
+        <attr name="process_overlay_icon" format="reference|integer" />
+        <attr name="process_image" format="reference|integer" />
+        <attr name="process_theme" format="reference|integer" />
+    </declare-styleable>
+</resources>

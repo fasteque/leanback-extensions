@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="IconCardViewStyle">
+        <item name="icon_background_color">@color/default_background</item>
+        <item name="icon_text_background_color">@color/default_accent</item>
+        <item name="icon_primary_text_color">@color/white</item>
+        <item name="icon_secondary_text_color">@color/white</item>
+    </style>
+
+    <style name="LoadingCardViewStyle">
+        <item name="loading_background_color">@color/default_background</item>
+        <item name="loading_progress_color">@color/white</item>
+    </style>
+
+    <style name="OverlayCardViewStyle">
+        <item name="overlay_background_color">@color/default_background</item>
+    </style>
+
+    <style name="ProcessCardViewStyle">
+        <item name="process_background_color">@color/default_background</item>
+        <item name="process_overlay_background_color">@color/default_black_transparent</item>
+        <item name="process_progress_color">@color/white</item>
+    </style>
+</resources>
