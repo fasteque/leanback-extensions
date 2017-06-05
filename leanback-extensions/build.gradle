@@ -51,7 +51,7 @@ bintray {
 
     configurations = ['archives'] // When uploading configuration files
     pkg {
-        repo = 'leanback-extensions'
+        repo = 'maven'
         name = project.name
         desc = 'Extensions of Leanback Support Library for Android TV.'
         websiteUrl = siteUrl
