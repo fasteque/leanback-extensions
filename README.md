@@ -12,7 +12,7 @@ Download
 
 Gradle:
 ```groovy
-compile 'com.fasteque:leanback-extensions:0.0.1'
+compile 'com.fasteque:leanback-extensions:0.0.2'
 ```
 
 Acknowledgments
