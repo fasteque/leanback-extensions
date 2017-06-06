@@ -3,6 +3,14 @@ Leanback Extensions
 
 Extensions of Leanback Support Library for Android TV.
 
+Download
+--------
+
+Gradle:
+```groovy
+compile 'com.fasteque:leanback-extensions:0.0.1'
+```
+
 Acknowledgments
 ========
 
