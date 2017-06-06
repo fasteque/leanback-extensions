@@ -7,8 +7,44 @@ Leanback Extensions
 
 Extensions of Leanback Support Library for Android TV.
 
-Download
+LoadingFragment
 --------
+A simple fragment with an indeterminate `ProgressBar` in the center. `ProgressBar` and fragment background color are customizable.<br>
+`LoadingFragment` is not a `BrandedFragment` subclass.
+
+Please refer to the [sample](https://github.com/fasteque/leanback-extensions/blob/master/app/src/main/java/com/fasteque/leanback/sample/LoadingActivity.java) application for more details about its usage.
+
+JustifiedVerticalGridPresenter
+--------
+A `Presenter` that renders objects in a `VerticalGridView`, filling rows starting from the left.<br>
+When are there less items in a row than its maximum capacitiy, they will placed anyway starting from the left (contrary to the default Android TV behaviour).
+
+IconCardView
+--------
+A subclass of `BaseCardView` which displays a main `ImageView` and two lines of texts. `ImageView`, texts, texts and card background colors are customizable.
+
+Please refer to the [sample](https://github.com/fasteque/leanback-extensions/blob/master/app/src/main/java/com/fasteque/leanback/sample/IconCardPresenter.java) application for more details about its usage.
+
+LoadingCardView
+--------
+A subclass of `BaseCardView` which displays an indeterminate `ProgressBar` in the center. `ProgressBar` and card background color are customizable.
+
+Please refer to the [sample](https://github.com/fasteque/leanback-extensions/blob/master/app/src/main/java/com/fasteque/leanback/sample/LoadingCardPresenter.java) application for more details about its usage.
+
+OverlayCardView
+--------
+A subclass of `BaseCardView` which displays a main `ImageView` and an overlay `ImageView` on top of it. `ImageView`s are card background color are customizable.
+
+Please refer to the [sample](https://github.com/fasteque/leanback-extensions/blob/master/app/src/main/java/com/fasteque/leanback/sample/OverlayCardPresenter.java) application for more details about its usage.
+
+ProcessCardView
+--------
+A subclass of `BaseCardView` which displays a main `ImageView` and a loading overlay on top of it. The overlay contains an indeterminate `ProgressBar` and a `ImageView`. All card components are customizable.
+
+Please refer to the [sample](https://github.com/fasteque/leanback-extensions/blob/master/app/src/main/java/com/fasteque/leanback/sample/ProcessCardPresenter.java) application for more details about its usage.
+
+Download
+========
 
 Gradle:
 ```groovy
