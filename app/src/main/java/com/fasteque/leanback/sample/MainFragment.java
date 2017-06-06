@@ -197,7 +197,7 @@ public class MainFragment extends BrowseFragment {
 					Toast.makeText(getActivity(), "I'm a card, you clicked me!", Toast.LENGTH_SHORT).show();
 				}
 			} else if (item instanceof String) {
-				if (((String) item).indexOf(getString(R.string.loading_fragment)) >= 0) {
+				if (((String) item).contains(getString(R.string.loading_fragment))) {
 					Intent intent = new Intent(getActivity(), LoadingActivity.class);
 					startActivity(intent);
 				} else {
