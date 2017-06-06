@@ -6,7 +6,7 @@ Extensions of Leanback Support Library for Android TV.
 Acknowledgments
 ========
 
-Thanks to [LeanbackCards](https://github.com/hitherejoe/LeanbackCards), which is was really helpful when I started developing for Android TV and lead me to release this library.
+Thanks to [LeanbackCards](https://github.com/hitherejoe/LeanbackCards), which was really helpful when I started developing for Android TV and lead me to release this library.
 
 License
 ========
