@@ -1,6 +1,10 @@
 Leanback Extensions
 ========
 
+<p align="center">
+    <img src="resources/app_icon_leanback.png" alt="Leanback Extensions"/>
+</p>
+
 Extensions of Leanback Support Library for Android TV.
 
 Download
