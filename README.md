@@ -7,6 +7,8 @@ Leanback Extensions
 
 Extensions of Leanback Support Library for Android TV.
 
+[ ![Download](https://api.bintray.com/packages/fasteque/maven/leanback-extensions/images/download.svg) ](https://bintray.com/fasteque/maven/leanback-extensions/_latestVersion)
+
 LoadingFragment
 --------
 A simple fragment with an indeterminate `ProgressBar` in the center. `ProgressBar` and fragment background color are customizable.<br>
