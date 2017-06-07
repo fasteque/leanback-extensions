@@ -23,6 +23,10 @@ IconCardView
 --------
 A subclass of `BaseCardView` which displays a main `ImageView` and two lines of texts. `ImageView`, texts, texts and card background colors are customizable.
 
+<p align="center">
+    <img src="resources/icon_card_view.png" alt="IconCardView" height="200" width="200"/>
+</p>
+
 Please refer to the [sample](https://github.com/fasteque/leanback-extensions/blob/master/app/src/main/java/com/fasteque/leanback/sample/IconCardPresenter.java) application for more details about its usage.
 
 LoadingCardView
@@ -34,6 +38,10 @@ Please refer to the [sample](https://github.com/fasteque/leanback-extensions/blo
 OverlayCardView
 --------
 A subclass of `BaseCardView` which displays a main `ImageView` and an overlay `ImageView` on top of it. `ImageView`s are card background color are customizable.
+
+<p align="center">
+    <img src="resources/overlay_card_view.png" alt="OverlayCardView" height="200" width="200"/>
+</p>
 
 Please refer to the [sample](https://github.com/fasteque/leanback-extensions/blob/master/app/src/main/java/com/fasteque/leanback/sample/OverlayCardPresenter.java) application for more details about its usage.
 
