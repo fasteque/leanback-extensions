@@ -10,4 +10,4 @@ android:
     - android-25
 
 script:
-  - ./gradlew leanback-extensions:clean leanback-extensions:assembleRelease
+  - ./gradlew leanback-extensions:clean leanback-extensions:assembleRelease --stacktrace --info --debug
