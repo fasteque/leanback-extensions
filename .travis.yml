@@ -11,5 +11,11 @@ android:
     - extra-android-m2repository
     - extra-android-support
 
+  licenses:
+    - 'android-sdk-license.*'
+
+before_script:
+    - echo "sdk.dir=$ANDROID_HOME" > local.properties
+
 script:
   - ./gradlew leanback-extensions:clean leanback-extensions:assembleRelease
