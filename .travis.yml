@@ -8,6 +8,8 @@ android:
     - platform-tools
     - build-tools-25.0.3
     - android-25
+    - extra-android-m2repository
+    - extra-android-support
 
 script:
-  - ./gradlew leanback-extensions:clean leanback-extensions:assembleRelease --stacktrace --info --debug
+  - ./gradlew leanback-extensions:clean leanback-extensions:assembleRelease
