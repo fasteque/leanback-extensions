@@ -7,7 +7,7 @@ Leanback Extensions
 
 Extensions of Leanback Support Library for Android TV.
 
-[ ![Download](https://api.bintray.com/packages/fasteque/maven/leanback-extensions/images/download.svg) ](https://bintray.com/fasteque/maven/leanback-extensions/_latestVersion)
+[ ![Download](https://api.bintray.com/packages/fasteque/maven/leanback-extensions/images/download.svg) ](https://bintray.com/fasteque/maven/leanback-extensions/_latestVersion) [![Build Status](https://travis-ci.org/fasteque/leanback-extensions.svg?branch=master)](https://travis-ci.org/fasteque/leanback-extensions)
 
 LoadingFragment
 --------
