@@ -1,6 +1,9 @@
 Change Log
 ==========
 
+## Version 0.0.4 *(2017-06-24)*
+###### leanback-v17 26.0.0-beta2, compileSdkVersion 26, targetSdkVersion 26
+
 ## Version 0.0.3 *(2017-06-24)*
 ###### leanback-v17 25.4.0, compileSdkVersion 25, targetSdkVersion 25
 
