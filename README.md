@@ -66,8 +66,10 @@ Download
 
 Gradle:
 ```groovy
-compile 'com.fasteque:leanback-extensions:0.0.2'
+compile 'com.fasteque:leanback-extensions:0.0.4'
 ```
+
+Please read the [CHANGELOG](https://github.com/fasteque/leanback-extensions/blob/master/CHANGELOG.md) to know which version of the Android Leanback Support Library is used by the extensions to match the one in your application.
 
 Acknowledgments
 ========
