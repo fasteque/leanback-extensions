@@ -35,6 +35,10 @@ LoadingCardView
 --------
 A subclass of `BaseCardView` which displays an indeterminate `ProgressBar` in the center. `ProgressBar` and card background color are customizable.
 
+<p align="center">
+    <img src="resources/loading_card_view.gif" alt="LoadingCardView" height="200" width="200"/>
+</p>
+
 Please refer to the [sample](https://github.com/fasteque/leanback-extensions/blob/master/app/src/main/java/com/fasteque/leanback/sample/LoadingCardPresenter.java) application for more details about its usage.
 
 OverlayCardView
@@ -50,6 +54,10 @@ Please refer to the [sample](https://github.com/fasteque/leanback-extensions/blo
 ProcessCardView
 --------
 A subclass of `BaseCardView` which displays a main `ImageView` and a loading overlay on top of it. The overlay contains an indeterminate `ProgressBar` and a `ImageView`. All card components are customizable.
+
+<p align="center">
+    <img src="resources/process_card_view.gif" alt="ProcessCardView" height="200" width="200"/>
+</p>
 
 Please refer to the [sample](https://github.com/fasteque/leanback-extensions/blob/master/app/src/main/java/com/fasteque/leanback/sample/ProcessCardPresenter.java) application for more details about its usage.
 
