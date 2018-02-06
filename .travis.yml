@@ -16,6 +16,9 @@ android:
 
 before_script:
     - echo "sdk.dir=$ANDROID_HOME" > local.properties
+    
+before_install:
+    - yes | sdkmanager "platforms;android-27"
 
 script:
   - ./gradlew leanback-extensions:clean leanback-extensions:assembleRelease
