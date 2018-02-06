@@ -1,6 +1,12 @@
 Change Log
 ==========
 
+## Version 0.0.7 *(2018-02-06)*
+###### leanback-v17 27.0.2, compileSdkVersion 27, targetSdkVersion 25, buildToolsVersion 27.0.3
+
+## Version 0.0.6 *(2018-02-06)*
+###### Please use version 0.0.7
+
 ## Version 0.0.5 *(2017-10-06)*
 ###### leanback-v17 26.1.0, compileSdkVersion 26, targetSdkVersion 26, buildToolsVersion 26.0.2
 
