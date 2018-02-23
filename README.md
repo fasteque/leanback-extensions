@@ -19,7 +19,7 @@ Please refer to the [sample](https://github.com/fasteque/leanback-extensions/blo
 JustifiedVerticalGridPresenter
 --------
 A `Presenter` that renders objects in a `VerticalGridView`, filling rows starting from the left.<br>
-When are there less items in a row than its maximum capacitiy, they will placed anyway starting from the left (contrary to the default Android TV behaviour).
+When there are less items in a row than its maximum capacitiy, they will placed anyway starting from the left (contrary to the default Android TV behaviour).
 
 IconCardView
 --------
